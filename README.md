@@ -1,2 +1,2 @@
-# Sample
-# Life is awesome I love it Alawys.
+# Dagger complete 
+# Kotlin, RXjava, MVVM, Dagger2, DataBinding
