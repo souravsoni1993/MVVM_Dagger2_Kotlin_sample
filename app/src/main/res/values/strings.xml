@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">checkDagger</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="post">Post</string>
+    <string name="user_profile_image">profile image</string>
+</resources>
